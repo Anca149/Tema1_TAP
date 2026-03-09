@@ -1,0 +1,14 @@
+[
+  {
+    "BaseName": "New User",
+    "Percent": 10
+  },
+  {
+    "BaseName": "Black Friday",
+    "Percent": 30
+  },
+  {
+    "BaseName": "Summer Sale",
+    "Percent": 20
+  }
+]
